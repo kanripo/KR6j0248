@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 聖六字增壽大明陀羅尼經
+#+DATE: 2015-08-30 20:28:44.869538
+#+PROPERTY: JUAN 0
