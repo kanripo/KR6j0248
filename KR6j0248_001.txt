@@ -1,23 +1,21 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:28:44.675661
+#+DATE: 2015-08-30 20:28:45.722655
 #+TITLE: 聖六字增壽大明陀羅尼經
 #+PROPERTY: CBETA_ID T20n1049
 #+PROPERTY: ID KR6j0248
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 20, No. 1049
 #+PROPERTY: VOL 20
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6j0248_T_000-0046b>¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0248_T_001-0046b> ¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1049¶
-
- 聖六字增壽大明陀羅尼經¶
+No. 1049¶
+聖六字增壽大明陀羅尼經¶
 ¶
-西天譯經三藏朝散大夫試鴻臚卿¶
-傳法大師臣施護奉　詔譯¶
+西天譯經三藏朝散大夫試鴻臚卿傳法大師臣施護奉　詔譯¶
 
 如是我聞。一時佛在舍衛國祇樹給孤獨園。¶
 爾時尊者阿難有大疾病。佛自知已即詣彼¶
@@ -33,7 +31,7 @@ No.1049¶
 異口同音。說陀羅尼曰。
 <pb:KR6j0248_T_001-0046c>¶
 
-難底黎難底黎難覩哩(去)都摩哩半拏哩俱㘓¶
+難底黎難底黎難覩哩(去)都摩哩半拏哩俱[口*闌]¶
 致(引)摩度摩帝(引)娑嚩(二合引)賀(引)¶
 
 佛告阿難。此六字大明章句有大威力。若復¶
