@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:28:44.675661
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:40
 #+TITLE: 聖六字增壽大明陀羅尼經
 #+PROPERTY: CBETA_ID T20n1049
 #+PROPERTY: ID KR6j0248
